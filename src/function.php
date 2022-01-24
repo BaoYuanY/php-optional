@@ -2,5 +2,5 @@
 
 function optional($obj, $default = null)
 {
-    return new \yby\optional\Optional($obj, $default);
+    return new \Yby0304\Optional\Optional($obj, $default);
 }

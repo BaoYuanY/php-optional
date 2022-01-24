@@ -1,6 +1,6 @@
 <?php
 
-namespace yby\optional;
+namespace Yby0304\Optional;
 
 class Optional
 {

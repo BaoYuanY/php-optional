@@ -1,5 +1,5 @@
 {
-  "name": "yby/optional",
+  "name": "yby0304/optional",
   "description": "Elegant object values",
   "authors": [
     {
@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "yby\\optional\\": "src/"
+      "Yby0304\\Optional\\": "src/"
     },
     "files" : [
       "src/function.php"
